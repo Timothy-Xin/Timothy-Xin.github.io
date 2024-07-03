@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Yaoxin Xu"
+locale                   : "zh-cn"
+title                    : "Yaoxin Xu（徐耀新）"
 title_separator          : "-"
-name                     : &name "Yaoxin Xu"
+name                     : &name "Yaoxin Xu（徐耀新）"
 description              : &description "personal description"
 url                      : https://timothy-xin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,21 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/profile.png"
-  name             : "Yaoxin Xu"
+  name             : "Yaoxin Xu（徐耀新）"
   pronouns         : "he/him"  
   bio              : "A second-year graduate student at the School of Architecture, Southeast University."
   location         : "Nanjing"
-  employer         : "Southeast University University"
-  uri              : https://timothy-xin.github.io/
+  employer         : "Southeast University"
+  uri              : #
   email            : "897315610@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
