@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Yaoxin Xu（徐耀新）"
   pronouns         : "he/him"  
   bio              : "A second-year graduate student at the School of Architecture, Southeast University."
