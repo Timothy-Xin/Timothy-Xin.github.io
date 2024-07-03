@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/1.jpg"
+  avatar           : "images/1.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "A second-year graduate student at the School of Architecture, Southeast University."
   location         : "Nanjing"
   employer         : "Southeast University University"
-  uri              : # URL
+  uri              : https://timothy-xin.github.io/
   email            : "897315610@qq.com" 
 
   # Academic websites
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : Timothy-Xin
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
