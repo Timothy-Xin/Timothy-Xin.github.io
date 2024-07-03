@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yaoxin Xu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yaoxin Xu"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1.png"
-  name             : "Personal Profile"
-  pronouns         : # example: "she/her"  
+  avatar           : "profile.png"
+  name             : "Yaoxin Xu"
+  pronouns         : "he/him"  
   bio              : "A second-year graduate student at the School of Architecture, Southeast University."
   location         : "Nanjing"
   employer         : "Southeast University University"
